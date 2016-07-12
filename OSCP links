@@ -1,0 +1,20 @@
+Unsorted links:
+  http://n3ko1.github.io/certification/2015/05/27/oscp---offensive-security-certified-professional/
+  https://technet.microsoft.com/en-us/scriptcenter/dd742419
+  https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/
+  http://www.securitysift.com/offsec-pwb-oscp/
+
+Enumeration:
+  Python wrapper for Nmap: https://github.com/n3ko1/WrapMap
+  More Python/Nmap stuff: http://xael.org/pages/python-nmap-en.html
+  
+Exploits:
+
+Priv Escalation:
+  Priv checking scripts: http://pentestmonkey.net/category/tools/audit
+  Basic Linux priv escalation: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/?redirect
+
+Misc Scripts:
+  Powershell scrips for pentesting: https://github.com/samratashok/nishang
+  
+Reviews/Tips:
